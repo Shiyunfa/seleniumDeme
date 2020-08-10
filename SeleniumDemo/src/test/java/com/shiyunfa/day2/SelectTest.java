@@ -13,7 +13,7 @@ import java.util.List;
 
 public class SelectTest {
     /**
-     * 处理下拉框的方法
+     * 处理select下拉框的方法
      */
     Tool tool = new Tool();
     WebDriver driver = tool.getDriver();
