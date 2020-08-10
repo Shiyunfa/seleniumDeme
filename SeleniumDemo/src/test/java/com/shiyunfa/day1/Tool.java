@@ -17,7 +17,7 @@ public class Tool {
     public WebDriver getDriver(){
         System.setProperty(a,b);
         driver = new ChromeDriver();
-        driver.get("https://www.w3school.com.cn/tiy/t.asp?f=html_select");
+        driver.get("https://www.baidu.com");
         return driver;
     }
 
