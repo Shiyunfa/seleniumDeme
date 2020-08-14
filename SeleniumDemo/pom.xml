@@ -13,7 +13,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.0.0-alpha-6</version>
+            <version>3.9.1</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -45,6 +45,15 @@
             <artifactId>commons-io</artifactId>
             <version>2.7</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.codeborne/phantomjsdriver -->
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>phantomjsdriver</artifactId>
+            <version>1.4.4</version>
+        </dependency>
+
+
 
 
 
